@@ -1,1 +1,1 @@
-# rosa-proj - This is my GitHub repo for tracking my progress for using ROSA (Red Hat OpenShift on AWS for local use)
+# rosa-proj - This is my GitHub repository for tracking my progress in using ROSA (Red Hat OpenShift on AWS) by using Terraform, Ansible, and GitLab to hopefully deploy a multi-tier application through this cluster
